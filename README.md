@@ -1,2 +1,2 @@
 # EtheruemSmartContract
-Repo to test our creation of smart contract with Ehtereum
+Repo to test out creation of smart contracts with Ehtereum

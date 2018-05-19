@@ -1,0 +1,19 @@
+{
+  "name": "etheruemsmartcontract",
+  "version": "1.0.0",
+  "description": "Repo to test out creation of smart contracts with Ehtereum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qSam/EtheruemSmartContract.git"
+  },
+  "author": "Laghari, Q",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qSam/EtheruemSmartContract/issues"
+  },
+  "homepage": "https://github.com/qSam/EtheruemSmartContract#readme"
+}
