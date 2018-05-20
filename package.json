@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/qSam/EtheruemSmartContract/issues"
   },
-  "homepage": "https://github.com/qSam/EtheruemSmartContract#readme"
+  "homepage": "https://github.com/qSam/EtheruemSmartContract#readme",
+  "dependencies": {
+    "solc": "^0.4.24"
+  }
 }
