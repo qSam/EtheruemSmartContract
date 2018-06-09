@@ -17,6 +17,7 @@ beforeEach(async () => {
 
 describe('Inbox Contract', () => {
   it('deploys a contract', () => {
-    console.log(inbox);
+    //Check if the address attribute exists
+    assert.ok(inbox.options.address);
   });
 });
